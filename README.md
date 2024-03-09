@@ -8,11 +8,18 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 -->
-
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?logo=SpringBoot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=PostgreSQL&logoColor=white)
+
+
+💡Tools
+
+![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=VisualStudioCode&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=AndroidStudio&logoColor=white)
+![Intellij](https://img.shields.io/badge/IntelliJ-000000.svg?logo=IntellijIDEA&logoColor=white)
 
 
 <!-- 가장 많이 사용하는 언어 -->
